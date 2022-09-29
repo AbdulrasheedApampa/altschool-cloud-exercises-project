@@ -64,5 +64,21 @@ ismem command
 
 ![](https://github.com/AbdulrasheedApampa/altschool-cloud-exercises-project/blob/main/uname.PNG)
 
+9
+----
+```linux
+man command
+```
+
+![](https://github.com/AbdulrasheedApampa/altschool-cloud-exercises-project/blob/main/man.PNG)
+
+10
+----
+```linux
+rmdir/mkdir command
+```
+
+![](https://github.com/AbdulrasheedApampa/altschool-cloud-exercises-project/blob/main/rmdir.PNG)
+
 
 
